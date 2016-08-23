@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TTBViewPager.iml" filepath="$PROJECT_DIR$/TTBViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoomimage/zoomimage.iml" filepath="$PROJECT_DIR$/zoomimage/zoomimage.iml" />
+    </modules>
+  </component>
+</project>
